@@ -1,0 +1,15 @@
+{
+  "name": "web3Demo",
+  "version": "1.0.0",
+  "description": "Web3 Demo Node",
+  "main": "index.js",
+  "repository": "https://github.com/2juwon/web3Demo.git",
+  "author": "LeeJuwon <2juwon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/express": "^1.3.1",
+    "@feathersjs/feathers": "^3.3.1",
+    "http-server": "^0.11.1",
+    "web3": "^1.0.0-beta.48"
+  }
+}
